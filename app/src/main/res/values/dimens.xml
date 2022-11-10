@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="recycleview_height_0">0dp</dimen>
+    <dimen name="button_random_joke_margin_horizontal">30dp</dimen>
+    <dimen name="recyclerview_padding_horizontal">10dp</dimen>
+    <dimen name="recyclerview_padding_top">20dp</dimen>
+    <dimen name="item_margin_bottom">15dp</dimen>
+    <dimen name="item_padding">15dp</dimen>
+</resources>

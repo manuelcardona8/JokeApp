@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JokeApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_random_joke">Random Joke</string>
+    <string name="failureMessage">Ups! sorry something was wrong</string>
+</resources>
